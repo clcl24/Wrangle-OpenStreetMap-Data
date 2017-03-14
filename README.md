@@ -10,6 +10,8 @@ Run data.py first to get data in .csv file, import these .csv files into a SQL d
 
 * data_wrangling_schema.sql - import .csv file into a SQL database
 
-* project3.pdf -the report
+* OpenStreetMap_Report.md - the report
+
+* OpenStreetMap_Report.pdf - pdf version
 
 * Reference.txt - reference
