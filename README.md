@@ -1,5 +1,7 @@
 # Wrangle-OpenStreetMap-Data
 
+### clean the OpenStreetMap data for a part of the world, SQL as the data schema to complete project
+
 Run data.py first to get data in .csv file, import these .csv files into a SQL database using data_wrangling_schema.sql, use SQL to do some data analysis. 
 
 * GSNB.osm - original data, download from [Map Zen](https://mapzen.com/data/metro-extracts/)
